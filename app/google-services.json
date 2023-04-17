@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218487206050",
+    "firebase_url": "https://bursprojects-default-rtdb.firebaseio.com",
+    "project_id": "bursprojects",
+    "storage_bucket": "bursprojects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218487206050:android:c8d258b906abd7431827fb",
+        "android_client_info": {
+          "package_name": "com.neizatheedev.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218487206050-afufk56pab9ismecfnv83vp8k7i4ftim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlWfL_fDoQ_nIQ6ErZx9INY4D0kJ0wxA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218487206050-8makike1bc94ekakb4ffn3nsg82gjthg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

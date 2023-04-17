@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Profile"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/Settings"
+        android:title="Settings" />
+
+    <item
+        android:id="@+id/ad"
+        android:title="Advertise on facebook" />
+
+    <item
+        android:id="@+id/bs"
+        android:title="Business Tools" />
+    <item
+        android:id="@+id/groups"
+        android:title="New Group" />
+    <item
+        android:id="@+id/broadcast"
+        android:title="New Broadcast" />
+
+    <item
+        android:id="@+id/linkedDev"
+        android:title="Linked Devices" />
+    <item
+        android:id="@+id/starredMes"
+        android:title="Starred Messages" />
+
+</menu>

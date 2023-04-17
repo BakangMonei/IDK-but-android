@@ -1,0 +1,6 @@
+1. MainActivity.java ==> This is the Splash Screen class.
+2. LoginActivity.java ==> This is the class that user logins.
+3. SignUpActivity.java ==> This is the class where a new user creates an account.
+4. IndexActivity.java ==> This is the class that will be considered as a *MainMenu*.
+5. MyAppActivity.java ==> This is the class that owns the *chatApp* folder of the project.
+6. ForgotPasswordActivity.java ==> This is the class that will help the user change passwords if forgotten.
